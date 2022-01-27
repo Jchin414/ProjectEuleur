@@ -2,6 +2,8 @@
 # of the numbers from 1 to 10 without any remainder.
 # What is the smallest positive number
 # that is evenly divisible by all of the numbers from 1 to 20?
+#1/18/22 10:00-11:30
+
 
 import math
 
