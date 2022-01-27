@@ -5,6 +5,8 @@
 # Hence the difference between the sum of the squares of the first ten natural numbers and the square of the sum is .
 
 # Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
+#1/18/22 11:30pm-12:15pm 
+
 
 startnum = 100 #starting number 
 summation = sum(i for i in range(1, startnum + 1)) #adds all the numbers between 1 and n + 1
